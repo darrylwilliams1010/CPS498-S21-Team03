@@ -174,12 +174,12 @@ h1, h2, h3, h4, h5, h6 {
 * Desktop Navigation 
 */
 .navbar {
-  padding: 0;
+  padding: 10;
 }
 
 .navbar ul {
   margin: 0;
-  padding: 0;
+  padding: 10;
   display: flex;
   list-style: none;
   align-items: center;
@@ -483,6 +483,7 @@ section {
 
 .section-title {
   text-align: center;
+  padding-top: 30px;
   padding-bottom: 30px;
 }
 
