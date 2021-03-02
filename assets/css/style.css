@@ -1325,7 +1325,7 @@ section {
 
 .resources .info p {
   padding: 0 0 0 60px;
-  margin-bottom: 0;
+  margin: 0 0 0 85px;
   font-size: 14px;
   color: #4b7dab;
 }
