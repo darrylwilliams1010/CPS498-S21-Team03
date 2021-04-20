@@ -1,0 +1,21 @@
+{
+    "name": "Unity.ProBuilder.Debug.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.ProBuilder",
+        "Unity.ProBuilder.Editor",
+        "Unity.ProBuilder.AssetIdRemapUtility",
+        "Unity.Settings.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

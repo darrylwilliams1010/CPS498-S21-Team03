@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+
+# Unity generated files
+UpgradeProjects~/*/Library/**
+UpgradeProjects~/*/Logs/**
+UpgradeProjects~/*/Temp/**
+UpgradeProjects~/*/obj/**
+UpgradeProjects~/*/*.sln
+UpgradeProjects~/*/*.csproj
+
+# IDE generated files
+UpgradeProjects~/*/.idea/**
+.vscode/**
+*.sublime-project*
+*.sublime-workspace*
+
+# Package Manager
+.Editor/**
+upm-ci~/**
