@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f44acfa725b58df1e329e2ffe123c92fdedd473 refs/heads/Darrylteaminformation
+ebc09951eb5a43249bf9dde07dc0dbf1dde4364d refs/heads/erase-the-latin
+b5f77ab9d92a4ee6bab42105cb913988333410a0 refs/heads/feature_removeUnnecessaryContent
+923179b88ae704d20fc63eba46adddcdb7573298 refs/heads/kos1nj-personal-profile-update
+1ab9d2bd9577d281ddc39be421bf1f804fb0a010 refs/heads/kos1nj-personal-profile-update-1
+da32fe6299cb2cce8bf69eea48679d70ffe3d828 refs/heads/kos1nj-score-tracker
+73ea34a5351a9841734a3a90ae2bd48efd863605 refs/heads/main
+51ca614564a1cc72fb0c7f534d2fb5f4350e37da refs/heads/website-title-change
+65b79d54ef33e66724e02058fe3335dc6a61c84c refs/pull/1/head
+b5f77ab9d92a4ee6bab42105cb913988333410a0 refs/pull/10/head
+923179b88ae704d20fc63eba46adddcdb7573298 refs/pull/11/head
+32a1da5d241b7c90bc3102e67baba3a53d8e7af2 refs/pull/12/head
+c6e9d80fc6973c5d042b851d9cb79a87d5c7bef3 refs/pull/2/head
+9dfbfb5a8bad9ffc4c9777bb7c421cf19c2b7a76 refs/pull/3/head
+d007fca066ae8644f36c1e8869e89e5587fe9936 refs/pull/4/head
+3422b3c0d410b772bd2f8ceaa4c5a5af22605e01 refs/pull/5/head
+1689c6755d0fabd26b12b84e5501ce9179c0fadb refs/pull/6/head
+1ab9d2bd9577d281ddc39be421bf1f804fb0a010 refs/pull/7/head
+624344aa5e1c39c9ad98ba219fdabb6562878117 refs/pull/8/head
+e0297515ad12526765ea8cbf5167dd0b424d6154 refs/pull/9/head
