@@ -410,11 +410,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   text-transform: uppercase;
-  color: #2c4964;
+  color: #0000;
 }
 
 #hero h2 {
-  color: #2c4964;
+  color: #0000;
   margin: 10px 0 0 0;
   font-size: 24px;
 }
