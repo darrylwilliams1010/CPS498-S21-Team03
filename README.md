@@ -22,3 +22,17 @@ We will use scripts provided to us to create the module scenes in Unity and ensu
 Figure 2 is the score interface for the modules. Users can see their scores in real time. The score is calculated by how much the user moves the pointer in the module. The higher the score the lower the grade the user will receive. 
 
 <img src  = "https://user-images.githubusercontent.com/45323165/116798978-e22e6200-aac2-11eb-9ff4-dd142f810d21.png"> figure 3 
+
+Figure 3 is the vr screen for the module. Users can use the screen to navigate through the module without looking at the scene itself. 
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799276-f889ed00-aac5-11eb-8415-a6c132fbece6.png">figure 4
+
+Figure 4 is the cross-hairs. The cross-hairs give the user a sense of how well they are tracking the ball in the module. 
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799482-bc578c00-aac7-11eb-80ad-1ef70cd1fd6e.png" width="400" height="200">figure 5
+
+Figure 5 is instructions for Dylan’s module. The instructions are readable with the vr headset and tells the user the goal of the module. 
+
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799730-d80f6200-aac8-11eb-80d7-42a474181098.png" width="200" height="200">figure 6
+
