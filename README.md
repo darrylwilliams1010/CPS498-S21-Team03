@@ -1,7 +1,7 @@
 # Laparoscopic Surgical Training System
-> ### _CPS498 Senior Design - Spring 2021 - Team 03_
+> ## _CPS498 Senior Design - Spring 2021 - Team 03_
 
-> #### Table Of Contents:
+> ### Table Of Contents:
 > 1. Introduction  
 > 2. Project Video  
 > 3. Team Members  
@@ -11,7 +11,7 @@
 > 7. Team Contributions  
 
 
-> #### Intro
+> ### Intro
    For this project, we were tasked with improving the training modules for the Simbionix LAP Mentor. The existing modules on the LAP Mentor were good for training with their specific system, but because all of the modules used the same model of a human to operate in, there was no diversity in the operating areas. All of the body parts were in the same place and were all the same size, and medical residents practicing with the LAP Mentor regularly could easily get used to where everything was and be unprepared for real patients who would come in all shapes and sizes. 
    
    Due to some difficulties along the way with acquiring the existing modules howerver, we readjusted our goals to instead create our own version of some of the LAP Mentor modules in VR, where they could be more accessible to the public than Simbionix's system. Our team created four modules that could be used to improve on beginner skills like locating an object, removing an object, or precise movement of the camera. Our modules were created in Unity using the Oculus VR integration Package to allow better controller movement. We each worked to create our own custom modules, so each level has its own look and feel to it.
@@ -21,7 +21,7 @@
 Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8">Project Video</a>
 
 
-> #### Meet Our Team
+> ### Meet Our Team
 |   Team Members    |     Advisors     |
 | ----------------- | ---------------- |
 | - Darryl Williams | - Dr. Alex Redei |
@@ -45,10 +45,10 @@ Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8"
 > 
 > Not Implemented: 
 > 
-> Within our prototype we decided to not implement a few components. First, we decided to not implement a simulation of a real surgery. The reason for this being that the current simulator available in Saginaw already has a selection of realistic simulations within its library. Additionally we changed the focus of our prototype to being an introduction to the current simulation available in Saginaw. Next week decided against implementing a fake operating room environment around each module. The reason for this was that it was unnecessary since these modules were not simulating a real surgery. Finally, we decided against adding a timer to each module. The reason for this is that each module is already relatively short to the point where a timer would clutter the user’s interface with little to no benefit from it.
+> Within our prototype we decided to not implement a few components. First, we decided to not implement a simulation of a real surgery. The reason for this being that the current simulator available in Saginaw already has a selection of realistic simulations within its library. Additionally we changed the focus of our prototype to being an introduction to the current simulation available in Saginaw. Next week decided against implementing a fake operating room environment around each module. The reason for this was that it was unnecessary since these modules were not simulating a real surgery. Finally, we decided against adding a timer to each module. The reason for this is that each module is already relatively short to the point where a timer would clutter the user’s interface with little to no benefit from it.  
 
 
-> #### UI Snapshots
+> ### UI Snapshots
 <img src = "https://user-images.githubusercontent.com/45323165/116798099-5b758700-aaba-11eb-96bd-451b475f14da.png"  width="100" height="100"> 
  Figure 1 is the model and brand of vr we use for our project. This allowed user to be the fully immersed in the training module. Users can use the headset to look around the modules as if they were in the module themselves. For some of the modules the vr controllers are usable to grab objects. 
 
@@ -69,17 +69,17 @@ Figure 5 is instructions for Dylan’s module. The instructions are readable wit
 Figure 6 is a laser pointer in Grace’s module. The laser pointer interacts with scene and allows the user to select the ball in the scene. This laser pointer is controlled by the vr controllers. 
 
 <img src="https://user-images.githubusercontent.com/45323165/116800015-3a696200-aacb-11eb-9963-63020db2b573.png" width="200" height="200">
-Figure 7 is mouse and keyboard. This is for users without a vr set. Users can run through the modules using mouse and keyboard keys. 
- 
- 
-> #### Future Changes    
-> -Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons.     
-> -Implement scoring system in all modules to grade user based on speed and efficiency.     
-> -Menu and recap scenes to start and restart modules, along with displaying score and rating for user after completing the module.     
-> -Combine all modules into one project with a menu for user to choose a module to play    
+Figure 7 is mouse and keyboard. This is for users without a vr set. Users can run through the modules using mouse and keyboard keys.  
 
 
-> #### Team Contributions
+> ### Future Changes    
+> - Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons.     
+> - Implement scoring system in all modules to grade user based on speed and efficiency.     
+> - Menu and recap scenes to start and restart modules, along with displaying score and rating for user after completing the module.     
+> - Combine all modules into one project with a menu for user to choose a module to play.    
+
+
+> ### Team Contributions
 |   Team Members    |   Contributions (Hours/Work Done)   |
 | ----------------- | ----------------- |
 | - Darryl Williams | 100 hours; ball tracking module, wrote code for the ball to follow a set path throughout the scene. Wrote scripts for the camera moveability, added cross-hairs for accurate tracking  |
