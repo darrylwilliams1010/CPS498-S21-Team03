@@ -73,16 +73,13 @@ Figure 7 is mouse and keyboard. This is for users without a vr set. Users can ru
 
 
 > #### Future Changes
->-Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons. 
->-Implement scoring system in all modules to grade user based on speed and efficiency. 
->-Menu and recap scenes to start and restart modules, along with displaying score and rating for user after completing the module. 
->-Combine all modules into one project with a menu for user to choose a module to play. 
+
 
 
 > #### Team Contributions
 |   Team Members    |   Contributions (Hours/Work Done)   |
 | ----------------- | ----------------- |
-| - Darryl Williams |                   |
+| - Darryl Williams | 100 hours; ball tracking module, wrote code for the ball to follow a set path throughout the scene. Wrote scripts for the camera moveability, added cross-hairs for accurate tracking  |
 | - Dylan White     | 120 hours; Removing objects by looking at screen module, wrote code for picking up/releasing object when collider is breached, keyboard input, and camera moveability |
-| - Grace Kern      | 130 hours; Search and locate ball in obstacles module, wrote code for laser pointer on hand controller to click on ball, implemented VR controls to each module and tested functionality |
+| - Grace Kern      |                   |
 | - Nathanial Kos   | 100 hours; Score and grade module, wrote code for tracking movement and then grading that given score, destroying targets when hit by another object with the tag "nib", and keyboard/camera moveability |
