@@ -28,11 +28,9 @@ Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8"
 | - Nathanial Kos   |
 
 > #### Prototype Objectives & Functionality
-> 
 > Implemented:
 > 
-> Within our project’s prototype, each group member assembled a working module that took a component from the laparoscopic trainer that would be implemented into VR. The goal of the VR is to have the user be fully immersed in each module as they work through each task. Within the first module, we implemented a ball tracker. The main focus of this module is to get the user exposed to using the VR headset, as the user is tasked with tracking a ball using a crosshair displayed in the center of their vision while using the headset. Additionally, if the user does not have access to VR, there are keyboard controls mapped out as well. Within the second module, we implemented an in-game screen to locate objects in an operating zone with a separate camera tracking your tool movements. The goal of this module is to simulate operating on a patient without being able to directly see what you are doing. The in-game screen floats at eye level to the user and then the user manipulates the camera attached to their controller or via keyboard inputs to remove the various objects within the scene. Within the third module, we implemented a target system using the VR hand controllers. The user is given two tools within the module, a camera and a laser pointer. With the camera, the user is able to navigate around a room of obstacles to find various targets. With the laser pointer, the user then clicks on each target, causing the target to be hit and disappear and relocate to a different area within the room. Within the fourth and final module, we created a score and grading system. The user uses a floating display to view the workspace and they again have access to control a camera and a prod. The prod is used to destroy 3 targets located within the scene and the user must manipulate the camera in order to locate each target. While the user carries out this task, they are given points based on the movement of the camera. The more movement results in more points which in turn causes the user to receive a lower score. The reason being that when performing a real operation, unnecessary movement can result in complications that can harm the patient. During this module, the user gets a live feed of their score and grade so as to know how well they are performing in any given moment.
->  
+> Within our project’s prototype, each group member assembled a working module that took a component from the laparoscopic trainer that would be implemented into VR. The goal of the VR is to have the user be fully immersed in each module as they work through each task. Within the first module, we implemented a ball tracker. The main focus of this module is to get the user exposed to using the VR headset, as the user is tasked with tracking a ball using a crosshair displayed in the center of their vision while using the headset. Additionally, if the user does not have access to VR, there are keyboard controls mapped out as well. Within the second module, we implemented an in-game screen to locate objects in an operating zone with a separate camera tracking your tool movements. The goal of this module is to simulate operating on a patient without being able to directly see what you are doing. The in-game screen floats at eye level to the user and then the user manipulates the camera attached to their controller or via keyboard inputs to remove the various objects within the scene. Within the third module, we implemented a target system using the VR hand controllers. The user is given two tools within the module, a camera and a laser pointer. With the camera, the user is able to navigate around a room of obstacles to find various targets. With the laser pointer, the user then clicks on each target, causing the target to be hit and disappear and relocate to a different area within the room. Within the fourth and final module, we created a score and grading system. The user uses a floating display to view the workspace and they again have access to control a camera and a prod. The prod is used to destroy 3 targets located within the scene and the user must manipulate the camera in order to locate each target. While the user carries out this task, they are given points based on the movement of the camera. The more movement results in more points which in turn causes the user to receive a lower score. The reason being that when performing a real operation, unnecessary movement can result in complications that can harm the patient. During this module, the user gets a live feed of their score and grade so as to know how well they are performing in any given moment. 
 > Not Implemented: 
 > 
 > Within our prototype we decided to not implement a few components. First, we decided to not implement a simulation of a real surgery. The reason for this being that the current simulator available in Saginaw already has a selection of realistic simulations within its library. Additionally we changed the focus of our prototype to being an introduction to the current simulation available in Saginaw. Next week decided against implementing a fake operating room environment around each module. The reason for this was that it was unnecessary since these modules were not simulating a real surgery. Finally, we decided against adding a timer to each module. The reason for this is that each module is already relatively short to the point where a timer would clutter the user’s interface with little to no benefit from it.
@@ -41,7 +39,29 @@ Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8"
 
 
 > #### UI Snapshots
+<img src = "https://user-images.githubusercontent.com/45323165/116798099-5b758700-aaba-11eb-96bd-451b475f14da.png"  width="100" height="100"> Figure 1
 
+ Figure 1 is the model and brand of vr we use for our project. This allowed user to be the fully immersed in the training module. Users can use the headset to look around the modules as if they were in the module themselves. For some of the modules the vr controllers are usable to grab objects. 
+
+
+<img src = "https://user-images.githubusercontent.com/45323165/116798727-a2667b00-aac0-11eb-9693-f84bf0a68d09.png"> figure 2 
+
+Figure 2 is the score interface for the modules. Users can see their scores in real time. The score is calculated by how much the user moves the pointer in the module. The higher the score the lower the grade the user will receive. 
+
+<img src  = "https://user-images.githubusercontent.com/45323165/116798978-e22e6200-aac2-11eb-9ff4-dd142f810d21.png"> figure 3 
+
+Figure 3 is the vr screen for the module. Users can use the screen to navigate through the module without looking at the scene itself. 
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799276-f889ed00-aac5-11eb-8415-a6c132fbece6.png">figure 4
+
+Figure 4 is the cross-hairs. The cross-hairs give the user a sense of how well they are tracking the ball in the module. 
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799482-bc578c00-aac7-11eb-80ad-1ef70cd1fd6e.png" width="400" height="200">figure 5
+
+Figure 5 is instructions for Dylan’s module. The instructions are readable with the vr headset and tells the user the goal of the module. 
+
+
+<img src ="https://user-images.githubusercontent.com/45323165/116799730-d80f6200-aac8-11eb-80d7-42a474181098.png" width="200" height="200">figure 6
 
 
 > #### Future Changes
