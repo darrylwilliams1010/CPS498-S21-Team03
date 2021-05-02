@@ -10,6 +10,7 @@
 > 6. Future Changes  
 > 7. Team Contributions  
 
+
 > #### Intro
    For this project, we were tasked with improving the training modules for the Simbionix LAP Mentor. The existing modules on the LAP Mentor were good for training with their specific system, but because all of the modules used the same model of a human to operate in, there was no diversity in the operating areas. All of the body parts were in the same place and were all the same size, and medical residents practicing with the LAP Mentor regularly could easily get used to where everything was and be unprepared for real patients who would come in all shapes and sizes. 
    
@@ -19,6 +20,7 @@
 
 Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8">Project Video</a>
 
+
 > #### Meet Our Team
 |   Team Members    |     Advisors     |
 | ----------------- | ---------------- |
@@ -26,6 +28,7 @@ Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8"
 | - Dylan White     | - Dr. Faiz Tuma  |
 | - Grace Kern      |
 | - Nathanial Kos   |
+
 
 > #### Prototype Objectives & Functionality
 > Implemented:
@@ -45,8 +48,6 @@ Click here to view a summary of our work: <a href="https://youtu.be/mgTneG63id8"
 > Within our prototype we decided to not implement a few components. First, we decided to not implement a simulation of a real surgery. The reason for this being that the current simulator available in Saginaw already has a selection of realistic simulations within its library. Additionally we changed the focus of our prototype to being an introduction to the current simulation available in Saginaw. Next week decided against implementing a fake operating room environment around each module. The reason for this was that it was unnecessary since these modules were not simulating a real surgery. Finally, we decided against adding a timer to each module. The reason for this is that each module is already relatively short to the point where a timer would clutter the user’s interface with little to no benefit from it.
 
 
-
-
 > #### UI Snapshots
 <img src = "https://user-images.githubusercontent.com/45323165/116798099-5b758700-aaba-11eb-96bd-451b475f14da.png"  width="100" height="100"> 
  Figure 1 is the model and brand of vr we use for our project. This allowed user to be the fully immersed in the training module. Users can use the headset to look around the modules as if they were in the module themselves. For some of the modules the vr controllers are usable to grab objects. 
@@ -64,14 +65,13 @@ Figure 4 is the cross-hairs. The cross-hairs give the user a sense of how well t
 <img src ="https://user-images.githubusercontent.com/45323165/116799482-bc578c00-aac7-11eb-80ad-1ef70cd1fd6e.png" width="400" height="200">
 Figure 5 is instructions for Dylan’s module. The instructions are readable with the vr headset and tells the user the goal of the module. 
 
-
 <img src ="https://user-images.githubusercontent.com/45323165/116799730-d80f6200-aac8-11eb-80d7-42a474181098.png" width="200" height="200">
 Figure 6 is a laser pointer in Grace’s module. The laser pointer interacts with scene and allows the user to select the ball in the scene. This laser pointer is controlled by the vr controllers. 
 
 <img src="https://user-images.githubusercontent.com/45323165/116800015-3a696200-aacb-11eb-9963-63020db2b573.png" width="200" height="200">
 Figure 7 is mouse and keyboard. This is for users without a vr set. Users can run through the modules using mouse and keyboard keys. 
->    
->    
+ 
+ 
 > #### Future Changes    
 > -Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons.     
 > -Implement scoring system in all modules to grade user based on speed and efficiency.     
