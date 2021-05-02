@@ -73,10 +73,10 @@ Figure 7 is mouse and keyboard. This is for users without a vr set. Users can ru
 
 
 > #### Future Changes
--Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons. 
--Implement scoring system in all modules to grade user based on speed and efficiency. 
--Menu and recap scenes to start and restart modules, along with displaying score and rating for user after completing the module. 
--Combine all modules into one project with a menu for user to choose a module to play. 
+>-Add functionality to user’s hand controllers to pick up objects in all modules and control camera with controller buttons. 
+>-Implement scoring system in all modules to grade user based on speed and efficiency. 
+>-Menu and recap scenes to start and restart modules, along with displaying score and rating for user after completing the module. 
+>-Combine all modules into one project with a menu for user to choose a module to play. 
 
 
 > #### Team Contributions
