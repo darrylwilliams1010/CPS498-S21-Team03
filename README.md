@@ -83,4 +83,4 @@ Figure 5 is instructions for Dylan’s module. The instructions are readable wit
 | - Darryl Williams |                   |
 | - Dylan White     | 120 hours; Removing objects by looking at screen module, wrote code for picking up/releasing object when collider is breached, keyboard input, and camera moveability |
 | - Grace Kern      |                   |
-| - Nathanial Kos   | 100 hours; Score and grade module, wrote code for tracking movement and then grading that given score,destroying targets when hit by another object with the tag "nib", and keyboard/camera moveability |
+| - Nathanial Kos   | 100 hours; Score and grade module, wrote code for tracking movement and then grading that given score, destroying targets when hit by another object with the tag "nib", and keyboard/camera moveability |
